@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Huy ơi!!!',
-    introDesc: `Chú bé loắt choắt, cái sắc xinh xinh`        
-    `SPACE`, `SPACE`,`SPACE`,`Cái chân thoăn thoắt, cái đầu nhớ anh :v`,
+    introDesc: `Chú bé loắt choắt, cái sắc xinh xinh/        
+    Cái chân thoăn thoắt, cái đầu nhớ anh :v`,
     btnIntro: 'Một nhấp vào em đi anh =)))',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
